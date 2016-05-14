@@ -1,6 +1,6 @@
 {
   "name": "@kellycampbell/ejs-loader",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "EJS (Underscore/LoDash Templates) loader for webpack",
   "main": "index.js",
   "repository": {
