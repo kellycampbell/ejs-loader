@@ -1,11 +1,11 @@
 {
-  "name": "ejs-loader",
+  "name": "@kellycampbell/ejs-loader",
   "version": "0.2.0",
   "description": "EJS (Underscore/LoDash Templates) loader for webpack",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/okonet/ejs-loader.git"
+    "url": "https://github.com/kellycampbell/ejs-loader.git"
   },
   "keywords": [
     "ejs",
